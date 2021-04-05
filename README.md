@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/pratik-mazumdar-541a321b9/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 <br />
 Hi, I'm Pratik Mazumdar, a passionate self-taught Stack developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
