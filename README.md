@@ -16,8 +16,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@pratikmazumdar](mailto:pratikmazumdar680@protonmail.com);
+- 📝 [Resume](https://raw.githubusercontent.com/LUCIF680/LUCIF680/main/Pratik%20Mazumdar.pdf)
 
 **Languages and Tools:**  
 
@@ -32,20 +32,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.56 % 
-JSX          5 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
-SCSS         3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
-Markdown     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-<!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider contributing to repo. 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
