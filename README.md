@@ -37,5 +37,7 @@ If you like what I do, maybe consider contributing to repo. 🥺👉👈
 
 🚧 **My Todo:**
 <!-- TODO-IST:START -->
-✅  Complete Easycpp framwork.           
+✅  Create a Game.
+✅  Complete Easycpp framwork.   
+
 <!-- TODO-IST:END -->
