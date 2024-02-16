@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discordapp.com/users/527157802331013131/">
-  <img align="left" alt="Pratik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Pratik's Discord" width="72px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pratik-mazumdar-541a321b9/">
-  <img align="left" alt="Pratik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pratik's LinkedIN" width="72px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />
 </a>
 <br/>
 <br />
@@ -18,16 +18,21 @@ Hi, I'm Pratik Mazumdar, a passionate software developer. My passion for softwar
 **Languages and Tools:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codeigniter.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/qt.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastapi.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
 If you like what I do, maybe consider contributing to my repos. 🥺👉👈
